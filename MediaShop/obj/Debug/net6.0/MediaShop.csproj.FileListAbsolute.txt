@@ -1,0 +1,15 @@
+D:\MDT210 Code\MediaShop\bin\Debug\net6.0\MediaShop.exe
+D:\MDT210 Code\MediaShop\bin\Debug\net6.0\MediaShop.deps.json
+D:\MDT210 Code\MediaShop\bin\Debug\net6.0\MediaShop.runtimeconfig.json
+D:\MDT210 Code\MediaShop\bin\Debug\net6.0\MediaShop.dll
+D:\MDT210 Code\MediaShop\bin\Debug\net6.0\MediaShop.pdb
+D:\MDT210 Code\MediaShop\obj\Debug\net6.0\MediaShop.csproj.AssemblyReference.cache
+D:\MDT210 Code\MediaShop\obj\Debug\net6.0\MediaShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\MDT210 Code\MediaShop\obj\Debug\net6.0\MediaShop.AssemblyInfoInputs.cache
+D:\MDT210 Code\MediaShop\obj\Debug\net6.0\MediaShop.AssemblyInfo.cs
+D:\MDT210 Code\MediaShop\obj\Debug\net6.0\MediaShop.csproj.CoreCompileInputs.cache
+D:\MDT210 Code\MediaShop\obj\Debug\net6.0\MediaShop.dll
+D:\MDT210 Code\MediaShop\obj\Debug\net6.0\refint\MediaShop.dll
+D:\MDT210 Code\MediaShop\obj\Debug\net6.0\MediaShop.pdb
+D:\MDT210 Code\MediaShop\obj\Debug\net6.0\MediaShop.genruntimeconfig.cache
+D:\MDT210 Code\MediaShop\obj\Debug\net6.0\ref\MediaShop.dll
